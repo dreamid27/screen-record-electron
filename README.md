@@ -6,22 +6,22 @@ An Screen Record application with React and TypeScript
 
 ### Main Interface
 
-![Main Interface](./screenshots/main-interface.png)
+<img src="./screenshots/main-interface.png" width="600" alt="Main Interface"/>
 _Main application window with recording controls_
 
 ### Settings Panel
 
-![Settings Panel](./screenshots/recording.png)
+<img src="./screenshots/recording.png" width="600" alt="Settings Panel"/>
 _Configuration options for video recording_
 
 ### Pause State
 
-![Settings Panel](./screenshots/pause.png)
+<img src="./screenshots/pause.png" width="600" alt="Pause State"/>
 _Pause State_
 
 ### Settings Panel
 
-![Save File](./screenshots/save-file.png)
+<img src="./screenshots/save-file.png" width="600" alt="Save File"/>
 _Save File_
 
 ## Recommended IDE Setup
