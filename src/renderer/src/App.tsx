@@ -141,7 +141,7 @@ function App(): JSX.Element {
                 <select
                   id="screen-select"
                   onChange={(e) => setScreenId(e.target.value)}
-                  className="w-full max-w-md px-4 py-2 bg-gray-800 rounded-lg border border-gray-700 focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+                  className="w-full px-4 py-2 bg-gray-800 rounded-lg border border-gray-700 focus:ring-2 focus:ring-blue-500 focus:border-transparent"
                 >
                   {optVideoSource.map((source) => (
                     <option key={source.value} value={source.value}>
