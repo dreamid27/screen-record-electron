@@ -11,8 +11,18 @@ _Main application window with recording controls_
 
 ### Settings Panel
 
-![Settings Panel](./screenshots/settings.png)
+![Settings Panel](./screenshots/recording.png)
 _Configuration options for video recording_
+
+### Pause State
+
+![Settings Panel](./screenshots/pause.png)
+_Pause State_
+
+### Settings Panel
+
+![Save File](./screenshots/save-file.png)
+_Save File_
 
 ## Recommended IDE Setup
 
